@@ -1,7 +1,8 @@
 
-<a href="[https://lottiefiles.com/your-animation-link](https://lottie.host/5c50bd15-56fe-4d58-9784-09819064b48b/cTD879u8vB.lottie)">
+<a href="https://lottie.host/5c50bd15-56fe-4d58-9784-09819064b48b/cTD879u8vB.lottie">
   <img src="https://your-preview-image.png" width="300px"/>
 </a>
+
 
 <p align="left"> 
   <a href="https://dart.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
