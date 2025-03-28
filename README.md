@@ -1,5 +1,5 @@
 
-<a href="https://lottie.host/5c50bd15-56fe-4d58-9784-09819064b48b/cTD879u8vB.lottie">
+<a href="[https://lottie.host/5c50bd15-56fe-4d58-9784-09819064b48b/cTD879u8vB.lottie](https://lottie.host/embed/5c50bd15-56fe-4d58-9784-09819064b48b/cTD879u8vB.lottie)">
   <img src="https://your-preview-image.png" width="300px"/>
 </a>
 
